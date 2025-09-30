@@ -1,6 +1,6 @@
 # Protokol: SAIT
 
-> "Kendi potansiyelin mimarı, kendi geleceğimin geliştiricisiyim."
+> "Kendi potansiyelimin mimarı, kendi geleceğimin geliştiricisiyim."
 
 Bu repository, sadece bir kod koleksiyonu değil; sürekli bir irade ve gelişim manifestosudur. Geleneksel yolların yerine, disiplin ve merakla kendi yolunu çizen birinin dijital atölyesidir.
 
@@ -8,7 +8,6 @@ Buradaki her satır kod, sadece bir problemi çözmekle kalmaz, aynı zamanda da
 
 ---
 <br>
-
 # Protocol: SAIT
 
 > "I am the architect of my own potential, the developer of my own future."
