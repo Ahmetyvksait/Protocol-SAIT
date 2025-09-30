@@ -8,6 +8,7 @@ Buradaki her satır kod, sadece bir problemi çözmekle kalmaz, aynı zamanda da
 
 ---
 <br>
+
 # Protocol: SAIT
 
 > "I am the architect of my own potential, the developer of my own future."
